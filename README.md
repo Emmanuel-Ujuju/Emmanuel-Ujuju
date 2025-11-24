@@ -41,14 +41,6 @@ I'm an EE student passionate about building intelligent systems that connect **s
 ---
 
 
-## ⭐ Featured Projects
-- 🔌 **SmartGrid-Predictor** – ML-based power load forecasting
-- 🤖 **RoboVision** – Real‑time object detection for robotics
-- ⚛️ **NukeSim‑Control** – Reactor dynamics simulation using control theory
-- 🛠️ **Embedded‑Sense** – C++ sensor fusion on Arduino
-- 🧮 **EE‑Algorithm‑Library** – Algorithms every EE should know
-
-
 Pinned below ⤵️
 
 
@@ -66,7 +58,7 @@ Pinned below ⤵️
 
 ## 📫 Connect With Me
 - **GitHub:** github.com/Emmanuel-Ujuju
-- **LinkedIn:** *add when ready*
+- **LinkedIn:** *www.linkedin.com/in/emmanuel-ujuju-55b690332*
 
 
 Thanks for visiting! Always open to collaboration.
